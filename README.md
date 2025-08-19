@@ -28,5 +28,6 @@ Il introduit un **système de gestion bancaire complet**, entièrement intégré
 ### 🛠️ Système de piratage (extension optionnelle)
 - Fonctionnalité **vendue séparément du plugin principal**.
 - Permet de **pirater les distributeurs automatiques (ATM)**.
-- Peut être rattachée à un **autre plugin** que *FrenchBanque*.
+
+**NB**: FrenchBraquage n'est pas le seul plugin à pouvoir être rattaché à mon système d'ATM!
 

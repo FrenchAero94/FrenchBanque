@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/23abd1f5-0a9c-4489-aa77-d76a8336c6fd" />
+
 # 💼 FrenchBanque - Plugin pour Nova-Life
 
 **FrenchBanque** est un plugin immersif développé pour le jeu **Nova-Life**, qui transforme l’expérience bancaire de vos joueurs.  
@@ -27,3 +29,4 @@ Il introduit un **système de gestion bancaire complet**, entièrement intégré
 - Fonctionnalité **vendue séparément du plugin principal**.
 - Permet de **pirater les distributeurs automatiques (ATM)**.
 - Peut être rattachée à un **autre plugin** que *FrenchBanque*.
+
